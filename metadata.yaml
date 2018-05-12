@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37479'
     url: http://www.gutenberg.org/2009/agents/37479
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35119#Trenching-at-Gallipoli--13-The-personal-narrative-of-a-Newfoundlander-with-the-ill-fated-Dard_
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2011-01-31'
 gutenberg_type: Text
